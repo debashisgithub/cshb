@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Advertisement 1",
+        "imageUrl": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg",
+        "cpi": 1.2,
+        "redirectUrl": "https://www.google.com/",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "Advertisement 2",
+        "imageUrl": "https://cdn.pixabay.com/photo/2015/06/19/21/24/the-road-815297__340.jpg",
+        "cpi": 1.2,
+        "redirectUrl": "https://www.google.com/",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "Advertisement 3",
+        "imageUrl": "https://s3.amazonaws.com/media.thecrimson.com/photos/2016/03/10/011532_1313834.jpg",
+        "cpi": 1.2,
+        "redirectUrl": "https://www.google.com/",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "Advertisement 4",
+        "imageUrl": "https://www.w3schools.com/howto/img_snow.jpg",
+        "cpi": 1.2,
+        "redirectUrl": "https://www.google.com/",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "Advertisement 5",
+        "imageUrl": "https://images.pexels.com/photos/433539/pexels-photo-433539.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "cpi": 1.2,
+        "redirectUrl": "https://www.google.com/",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "Advertisement 6",
+        "imageUrl": "https://startupanz.com/wp-content/uploads/2019/07/maxresdefault-1.jpg",
+        "cpi": 1.2,
+        "redirectUrl": "https://www.google.com/",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "name": "Advertisement 7",
+        "imageUrl": "https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/potw2013a.jpg",
+        "cpi": 1.2,
+        "redirectUrl": "https://www.google.com/",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "name": "Advertisement 8",
+        "imageUrl": "https://www.gettyimages.pt/gi-resources/images/Homepage/Hero/PT/PT_hero_42_153645159.jpg",
+        "cpi": 1.2,
+        "redirectUrl": "https://www.google.com/",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "Advertisement 9",
+        "imageUrl": "https://static.addtoany.com/images/dracaena-cinnabari.jpg",
+        "cpi": 1.2,
+        "redirectUrl": "https://www.google.com/",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": "Advertisement 10",
+        "imageUrl": "https://www.apimages.com/Images/aptopix042420_tcm37-15499.jpg",
+        "cpi": 1.2,
+        "redirectUrl": "https://www.google.com/",
+        "count": 0
+    }
+]

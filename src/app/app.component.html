@@ -1,0 +1,26 @@
+<br>
+<div class="container-fluid">
+    <h1>Client Side Header Bidder</h1>
+    <div class="row">
+        <div class="col-md-8">
+            <div class="row">
+                <div class="col-md-12" *ngFor="let slotAdd of slotAdds; let i = index">
+                    <br>
+                    <h4>Slot - {{i + 1}}</h4>
+                    <a [href]="slotAdd.redirectUrl" target="_blank" (click)="saveConv(slotAdd)"><img
+                            class="image-responsive" [src]="slotAdd.imageUrl" [alt]="slotAdd.name"
+                            [title]="slotAdd.name"></a>
+                </div>
+            </div>
+            <br>
+        </div>
+        <div class="col-md-4">
+            <br>
+            <h4>Report</h4>
+            <br>
+            <div *ngFor="let adds of allAdds; let i=index">
+                <p class="addsReport">{{adds.name}}<span>{{adds.count}}</span></p>
+            </div>
+        </div>
+    </div>
+</div>

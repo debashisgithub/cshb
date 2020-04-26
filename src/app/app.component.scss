@@ -1,0 +1,21 @@
+.image-responsive {
+    width: 40%;
+}
+.addsReport {
+    display: block;
+    width: 100%;
+    position: relative;
+    background: #ccc;
+    padding: 5px 10px;
+
+    span {
+        position: absolute;
+        top: 0;
+        right: 0;
+        background: #c70505;
+        color: #fff;
+        padding: 5px 10px;
+        width: 5vw;
+        text-align: center;
+    }
+}
